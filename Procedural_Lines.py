@@ -1,5 +1,5 @@
 #=============FURRO404=============#
-#ART.PY
+#Procedural_Lines.py
 import turtle
 import random
 
